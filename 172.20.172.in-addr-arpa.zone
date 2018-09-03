@@ -1,0 +1,12 @@
+$TTL 86400
+@	IN SOA	tecnicaweb.com.bo. cesarfuentes0594.gmail.com. (
+	2018083101;numero de serie
+	28800; tiempo de refresco
+	7200;tiempo entre reintentos y consultas
+	604800; tiempo tras el cual expira la zona
+	86400;tiempo total de vida
+)
+@	IN	NS	dns1.tecnicaweb.com.bo.
+106	IN	PTR	dns1.tecnicaweb.com.bo.
+107	IN	PTR	www.tecnicaweb.com.bo.
+108	IN	PTR	mail.tecnicaweb.com.bo.

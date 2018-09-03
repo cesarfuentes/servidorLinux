@@ -1,0 +1,12 @@
+managed-keys-zone: loaded serial 0
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 172.20.172.in-addr.arpa/IN: loaded serial 2018083101
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone tecnicaweb.com.bo/IN: loaded serial 2018083101
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+zone tecnicaweb.com.bo/IN: sending notifies (serial 2018083101)
+zone 172.20.172.in-addr.arpa/IN: sending notifies (serial 2018083101)
